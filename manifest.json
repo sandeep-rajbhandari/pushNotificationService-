@@ -1,0 +1,8 @@
+{  
+  "name": "takeinfood",  
+  "short_name": "takeinfood push",  
+  "start_url": "/",  
+  "display": "standalone",  
+  "gcm_sender_id": "945689684368",  
+  "gcm_user_visible_only": true  
+}
